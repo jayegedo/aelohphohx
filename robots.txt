@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fudoolaja.leirobot.com/sitemap.xml
